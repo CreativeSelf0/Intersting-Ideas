@@ -1,4 +1,4 @@
-# This a simple project
+# Getting Dirty With NN
 
 Messing with NN mostly
 
